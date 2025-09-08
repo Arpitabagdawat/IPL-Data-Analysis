@@ -41,7 +41,7 @@ This project explores IPL matches, players, and teams to uncover insights throug
 ![Matches Over Years](screenshots/matches_over_years.png)
 
 ### Final Winners by Season
-![Final Winners](screenshots/final_winners.png)
+![Final Winners](https://github.com/Arpitabagdawat/IPL-Data-Analysis/blob/main/Final%20winners%20over%20years.jpg)
 
 ### Toss Decision Analysis
 ![Toss Decision Analysis](screenshots/toss_decision.png)
