@@ -37,6 +37,9 @@ This project explores IPL matches, players, and teams to uncover insights throug
 
 ## 📸 Screenshots
 
+### Highlight slide
+
+
 ### Matches Hosted by Cities
 ![Matches Hosted by Cities](https://github.com/Arpitabagdawat/IPL-Data-Analysis/blob/main/Matches%20hosted%20by%20cities.jpg)
 
