@@ -38,7 +38,7 @@ This project explores IPL matches, players, and teams to uncover insights throug
 ## 📸 Screenshots
 
 ### Matches Over Years
-![Matches Over Years](screenshots/matches_over_years.png)
+![Matches Over Years](https://github.com/Arpitabagdawat/IPL-Data-Analysis/blob/main/Matches%20hosted%20by%20cities.jpg)
 
 ### Final Winners by Season
 ![Final Winners](https://github.com/Arpitabagdawat/IPL-Data-Analysis/blob/main/Final%20winners%20over%20years.jpg)
