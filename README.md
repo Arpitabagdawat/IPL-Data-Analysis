@@ -50,3 +50,9 @@ This project explores IPL matches, players, and teams to uncover insights throug
 ### Top players of the Match Winners
 ![Top Players](https://github.com/Arpitabagdawat/IPL-Data-Analysis/blob/main/top%20players%20of%20the%20match%20winners.jpg)
 
+```bash
+git clone https://github.com/Arpitabagdawat/IPL-Data-Analysis.git
+cd IPL-Data-Analysis
+pip install -r requirements.txt
+streamlit run app.py 
+
